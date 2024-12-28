@@ -14,9 +14,9 @@ file_paths = [
 freq_threshold = 1500
 plt.figure(figsize=(12, 6))
 
-highlight_color = '#ff7f0e'  # Bright blue for highlighting
-light_color = '#1f77b4'  # Light blue for others
-alpha_highlight = 1.0  # Opaque for highlighted
+highlight_color = '#ff7f0e'  
+light_color = '#1f77b4' 
+alpha_highlight = 1.0  
 alpha_light = 0.5  
 
 for file_path in file_paths:
